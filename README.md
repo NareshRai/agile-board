@@ -1,4 +1,4 @@
-# Agli-board
+# Agile-board
 
 Its basic Agile board created using react and for styling used boostrap.
 It include -
