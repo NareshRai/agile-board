@@ -1,0 +1,47 @@
+.boardTitle{
+    border-bottom: 1px solid #aaa;
+    padding-bottom: 8px;
+}    
+.boardSection {
+    border: 1px dotted #aaa;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#addCard{  
+    width:1.5rem;
+    height:1.5rem;
+    background-color: transparent;
+    border: none;
+    margin-left: 1rem;
+    background: url('./assets/add.png') no-repeat ;
+    background-size: contain;
+}
+
+.cards{    
+    margin: 0.5rem; 
+    border-radius: 30px;
+    word-wrap: break-word;
+    min-height: 10rem;
+}
+.storyPoints {
+    position: absolute;
+    left: 1rem;
+    bottom: 0.5rem;
+}
+.board1{
+    background: #f5c79a;
+    border: 1px solid #f5c79a;
+}
+.board2{
+    background: #d8fefd;
+    border: 1px solid #d8fefd;
+}
+.board3{
+    background: #cceb9d;
+    border: 1px solid #cceb9d;
+}
+.board4{
+    background: #fff476;
+    border: 1px solid #fff476;
+}
